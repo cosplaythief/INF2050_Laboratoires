@@ -1,3 +1,3 @@
 # INF2050 Laboratoires
-Lindsay
+Linsay
 Add more stuff
